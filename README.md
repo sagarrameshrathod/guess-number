@@ -1,2 +1,2 @@
 # guess-number
- Game on guess my number
+ Guess my number game
